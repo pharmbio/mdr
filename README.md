@@ -25,6 +25,7 @@ Clicking an ID button produces a more detailed view of the individual result, as
 Wesley Schaal, wesley.schaal@farmbio.uu.se  
 In association with Ola Spjuth and Åsa Melhus
 
+Research group:
 [![Screenshot](/img/pharmbio-logo.png)](https://pharmb.io)
 
 Sponsors and colloraborators:
