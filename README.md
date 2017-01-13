@@ -26,7 +26,8 @@ Wesley Schaal, wesley.schaal@farmbio.uu.se
 In association with Ola Spjuth and Åsa Melhus
 
 Research group:
-![![Screenshot](/img/pharmbio-logo.png)](https://pharmb.io)
+
+[![Screenshot](/img/pharmbio-logo.png)](https://pharmb.io)
 
 Sponsors and colloraborators:
 ![Screenshot](/img/aff_uu.png)
